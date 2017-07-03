@@ -1,10 +1,9 @@
 BBS Intro
 =========
 
+BBS intro written in 1999, pure x86 assembly (runs in DOSBox).
 
 [![Oldschool BBS intro](http://img.youtube.com/vi/hVy_5612N6w/0.jpg)](https://www.youtube.com/watch?v=hVy_5612N6w)
-
-BBS intro written in 1999, pure x86 assembly (runs in DOSBox).
 
 Good old times and useful experience (being a tired human C-compiler).
 
